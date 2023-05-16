@@ -20,7 +20,7 @@
                 "points": {
                     "Backend": 9,
                     "AI": 9,
-                    "Frontend": 8,
+                    "Frontend": 5,
                     "FullStack": 9,
                     "Cyber": 9,
                     "Game": 6,
@@ -34,7 +34,7 @@
                     "Backend": 6,
                     "AI": 6,
                     "Frontend": 7,
-                    "FullStack": 7,
+                    "FullStack": 8,
                     "Cyber": 7,
                     "Game": 6,
                     "Mobile": 6,
@@ -59,7 +59,7 @@
                 "points": {
                     "Backend": 5,
                     "AI": 1,
-                    "Frontend": 20,
+                    "Frontend": 4,
                     "FullStack": 4,
                     "Cyber": 0,
                     "Game": 3,
@@ -171,14 +171,14 @@
             {
                 "answer": "Matematiksel Problemler",
                 "points": {
-                    "Backend": 5,
+                    "Backend": 7,
                     "AI": 1,
-                    "Frontend": 20,
-                    "FullStack": 4,
-                    "Cyber": 0,
-                    "Game": 3,
-                    "Mobile": 20,
-                    "DataScience":1
+                    "Frontend": 5,
+                    "FullStack": 6,
+                    "Cyber": 6,
+                    "Game": 5,
+                    "Mobile": 4,
+                    "DataScience":8
                 }
             },
             {
@@ -197,13 +197,13 @@
             {
                 "answer": "Web Geliştirme",
                 "points": {
-                    "Backend": 5,
+                    "Backend": 4,
                     "AI": 1,
-                    "Frontend": 20,
-                    "FullStack": 4,
+                    "Frontend": 10,
+                    "FullStack": 5,
                     "Cyber": 0,
                     "Game": 3,
-                    "Mobile": 20,
+                    "Mobile": 3,
                     "DataScience":1
                 }
             },
@@ -212,11 +212,11 @@
                 "points": {
                     "Backend": 5,
                     "AI": 1,
-                    "Frontend": 20,
+                    "Frontend": 4,
                     "FullStack": 4,
                     "Cyber": 0,
-                    "Game": 3,
-                    "Mobile": 20,
+                    "Game": 10,
+                    "Mobile": 4,
                     "DataScience":1
                 }
             },
@@ -225,11 +225,11 @@
                 "points": {
                     "Backend": 5,
                     "AI": 1,
-                    "Frontend": 20,
+                    "Frontend": 5,
                     "FullStack": 4,
-                    "Cyber": 0,
+                    "Cyber": 10,
                     "Game": 3,
-                    "Mobile": 20,
+                    "Mobile": 2,
                     "DataScience":1
                 }
             },
@@ -238,7 +238,7 @@
                 "points": {
                     "Backend": 5,
                     "AI": 1,
-                    "Frontend": 20,
+                    "Frontend": 5,
                     "FullStack": 4,
                     "Cyber": 0,
                     "Game": 3,
