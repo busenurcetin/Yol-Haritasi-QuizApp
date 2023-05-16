@@ -63,7 +63,7 @@
                     "FullStack": 4,
                     "Cyber": 0,
                     "Game": 3,
-                    "Mobile": 20,
+                    "Mobile": 6,
                     "DataScience":1
                 }
             },
@@ -153,13 +153,13 @@
             {
                 "answer": "Asana Veya Trello Gibi Proje Yönetimi Araçları",
                 "points": {
-                    "Backend": 0,
-                    "AI": 0,
+                    "Backend": 2,
+                    "AI": 3,
                     "Frontend": 0,
                     "FullStack": 1,
                     "Cyber": 0,
                     "Game": 0,
-                    "Mobile": 0,
+                    "Mobile": 4,
                     "DataScience":0
                 }
             }
@@ -185,13 +185,13 @@
                 "answer": "Veri Analizi Ve Makine Öğrenimi",
                 "points": {
                     "Backend": 5,
-                    "AI": 1,
-                    "Frontend": 20,
+                    "AI": 9,
+                    "Frontend": 3,
                     "FullStack": 4,
                     "Cyber": 0,
                     "Game": 3,
-                    "Mobile": 20,
-                    "DataScience":1
+                    "Mobile": 3,
+                    "DataScience":9
                 }
             },
             {
@@ -210,7 +210,7 @@
             {
                 "answer": "Oyun Geliştirme",
                 "points": {
-                    "Backend": 5,
+                    "Backend": 4,
                     "AI": 1,
                     "Frontend": 4,
                     "FullStack": 4,
@@ -223,9 +223,9 @@
             {
                 "answer": "Yazılım Güvenliği",
                 "points": {
-                    "Backend": 5,
+                    "Backend": 4,
                     "AI": 1,
-                    "Frontend": 5,
+                    "Frontend": 4,
                     "FullStack": 4,
                     "Cyber": 10,
                     "Game": 3,
@@ -236,13 +236,13 @@
             {
                 "answer": "Mobil Uygulama Geliştirme",
                 "points": {
-                    "Backend": 5,
+                    "Backend": 4,
                     "AI": 1,
-                    "Frontend": 5,
+                    "Frontend": 4,
                     "FullStack": 4,
                     "Cyber": 0,
                     "Game": 3,
-                    "Mobile": 20,
+                    "Mobile": 10,
                     "DataScience":1
                 }
             }
@@ -577,7 +577,7 @@
                     "AI": 9,
                     "Frontend": 8,
                     "FullStack": 8,
-                    "Cyber": 0,
+                    "Cyber": 6,
                     "Game": 6,
                     "Mobile": 7,
                     "DataScience":9
@@ -586,7 +586,7 @@
             {
                 "answer": "SubVersion",
                 "points": {
-                    "Backend": 7,
+                    "Backend": 6,
                     "AI": 5,
                     "Frontend": 5,
                     "FullStack": 5,
