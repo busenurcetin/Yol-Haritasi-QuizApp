@@ -1,0 +1,819 @@
+[
+    {
+        "question": "Hangi Becerilerinize Daha Çok GüVeniyorsunuz?",
+        "answers": [
+            {
+                "answer": "Tasarım Ve Düzenleme",
+                "points": {
+                    "Backend": 6,
+                    "AI": 4,
+                    "Frontend": 9,
+                    "FullStack": 7,
+                    "Cyber": 5,
+                    "Game": 6,
+                    "Mobile": 8,
+                    "DataScience":4
+                }
+            },
+            {
+                "answer": "Kodlama Ve Problem Çözme",
+                "points": {
+                    "Backend": 9,
+                    "AI": 9,
+                    "Frontend": 8,
+                    "FullStack": 9,
+                    "Cyber": 9,
+                    "Game": 6,
+                    "Mobile": 8,
+                    "DataScience":7  
+                }
+            },
+            {
+                "answer": "İletişim Ve Takım Çalışması",
+                "points": {
+                    "Backend": 6,
+                    "AI": 6,
+                    "Frontend": 7,
+                    "FullStack": 7,
+                    "Cyber": 7,
+                    "Game": 6,
+                    "Mobile": 6,
+                    "DataScience":6 
+                }
+            },
+            {
+                "answer": "Yazma Ve Düzenleme",
+                "points": {
+                    "Backend": 5,
+                    "AI": 4,
+                    "Frontend": 5,
+                    "FullStack": 5,
+                    "Cyber": 5,
+                    "Game": 4,
+                    "Mobile": 4,
+                    "DataScience":4  
+                }
+            },
+            {
+                "answer": "Kamuoyu Önünde Konuşma Ve Sunum Yapma",
+                "points": {
+                    "Backend": 5,
+                    "AI": 1,
+                    "Frontend": 20,
+                    "FullStack": 4,
+                    "Cyber": 0,
+                    "Game": 3,
+                    "Mobile": 20,
+                    "DataScience":1
+                }
+            },
+            {
+                "answer": "Verileri Analiz Atme Ve Veri Odaklı Kararlar Alma",
+                "points": {
+                    "Backend": 4,
+                    "AI": 3,
+                    "Frontend": 4,
+                    "FullStack": 4,
+                    "Cyber": 4,
+                    "Game": 3,
+                    "Mobile": 3,
+                    "DataScience":3
+                }
+            }
+        ]
+    },
+    {
+        "question": "Hangi Araçları Kullanırken Daha Rahat Hissediyorsunuz?",
+        "answers": [
+            {
+                "answer": "Adobe Photoshop Veya Sketch",
+                "points": {
+                    "Backend": 0,
+                    "AI": 1,
+                    "Frontend": 2,
+                    "FullStack": 1,
+                    "Cyber": 0,
+                    "Game": 2,
+                    "Mobile": 8,
+                    "DataScience":0
+                }
+            },
+            {
+                "answer": "Visual Studio Veya Eclipse Gibi Entegre Geliştirme Ortamları (IDE'ler)",
+                "points": {
+                    "Backend": 9,
+                    "AI": 0,
+                    "Frontend": 9,
+                    "FullStack": 4,
+                    "Cyber": 0,
+                    "Game": 2,
+                    "Mobile": 0,
+                    "DataScience":0
+                }
+            },
+            {
+                "answer": "Tableau Veya Power BI Gibi İş Zekası Araçları",
+                "points": {
+                    "Backend": 0,
+                    "AI": 0,
+                    "Frontend": 0,
+                    "FullStack": 1,
+                    "Cyber": 0,
+                    "Game": 0,
+                    "Mobile": 0,
+                    "DataScience":8
+                }
+            },
+            {
+                "answer": "WordPress Veya Drupal Gibi İçerik Yönetim Sistemleri (CMS'ler)",
+                "points": {
+                    "Backend": 1,
+                    "AI": 1,
+                    "Frontend": 6,
+                    "FullStack": 3,
+                    "Cyber": 0,
+                    "Game": 0,
+                    "Mobile": 0,
+                    "DataScience":0
+                }
+            },
+            {
+                "answer": "Salesforce Veya HubSpot Gibi Müşteri İlişkileri Yönetimi (CRM) araçlarır",
+                "points": {
+                    "Backend": 0,
+                    "AI": 0,
+                    "Frontend": 0,
+                    "FullStack": 1,
+                    "Cyber": 0,
+                    "Game": 0,
+                    "Mobile": 0,
+                    "DataScience":0
+                }
+            },
+            {
+                "answer": "Asana Veya Trello Gibi Proje Yönetimi Araçları",
+                "points": {
+                    "Backend": 0,
+                    "AI": 0,
+                    "Frontend": 0,
+                    "FullStack": 1,
+                    "Cyber": 0,
+                    "Game": 0,
+                    "Mobile": 0,
+                    "DataScience":0
+                }
+            }
+        ]
+    },
+    {
+        "question": "Hangi Tür Problemleri Çözmek Seni Daha Çok Heyecanlandırır?",
+        "answers": [
+            {
+                "answer": "Matematiksel Problemler",
+                "points": {
+                    "Backend": 5,
+                    "AI": 1,
+                    "Frontend": 20,
+                    "FullStack": 4,
+                    "Cyber": 0,
+                    "Game": 3,
+                    "Mobile": 20,
+                    "DataScience":1
+                }
+            },
+            {
+                "answer": "Veri Analizi Ve Makine Öğrenimi",
+                "points": {
+                    "Backend": 5,
+                    "AI": 1,
+                    "Frontend": 20,
+                    "FullStack": 4,
+                    "Cyber": 0,
+                    "Game": 3,
+                    "Mobile": 20,
+                    "DataScience":1
+                }
+            },
+            {
+                "answer": "Web Geliştirme",
+                "points": {
+                    "Backend": 5,
+                    "AI": 1,
+                    "Frontend": 20,
+                    "FullStack": 4,
+                    "Cyber": 0,
+                    "Game": 3,
+                    "Mobile": 20,
+                    "DataScience":1
+                }
+            },
+            {
+                "answer": "Oyun Geliştirme",
+                "points": {
+                    "Backend": 5,
+                    "AI": 1,
+                    "Frontend": 20,
+                    "FullStack": 4,
+                    "Cyber": 0,
+                    "Game": 3,
+                    "Mobile": 20,
+                    "DataScience":1
+                }
+            },
+            {
+                "answer": "Yazılım Güvenliği",
+                "points": {
+                    "Backend": 5,
+                    "AI": 1,
+                    "Frontend": 20,
+                    "FullStack": 4,
+                    "Cyber": 0,
+                    "Game": 3,
+                    "Mobile": 20,
+                    "DataScience":1
+                }
+            },
+            {
+                "answer": "Mobil Uygulama Geliştirme",
+                "points": {
+                    "Backend": 5,
+                    "AI": 1,
+                    "Frontend": 20,
+                    "FullStack": 4,
+                    "Cyber": 0,
+                    "Game": 3,
+                    "Mobile": 20,
+                    "DataScience":1
+                }
+            }
+        ]
+    },
+        {
+        "question": "Tercih Ettiğiniz Geliştirme Ortamı Nedir?",
+        "answers": [
+            {
+                "answer": "Windows",
+                "points": {
+                    "Backend": 4,
+                    "AI": 3,
+                    "Frontend": 4,
+                    "FullStack": 4,
+                    "Cyber": 3,
+                    "Game": 3,
+                    "Mobile": 4,
+                    "DataScience":4
+                }
+            },
+            {
+                "answer": "MacOS",
+                "points": {
+                    "Backend": 4,
+                    "AI": 3,
+                    "Frontend": 4,
+                    "FullStack": 4,
+                    "Cyber": 3,
+                    "Game": 3,
+                    "Mobile": 4,
+                    "DataScience":4
+                }
+            },
+            {
+                "answer": "Linux",
+                "points": {
+                    "Backend": 5,
+                    "AI": 5,
+                    "Frontend": 5,
+                    "FullStack": 5,
+                    "Cyber": 4,
+                    "Game": 4,
+                    "Mobile": 4,
+                    "DataScience":4
+                }
+            },
+            {
+                "answer": "Yukarıdaki Hepsi",
+                "points": {
+                    "Backend": 9,
+                    "AI": 7,
+                    "Frontend": 9,
+                    "FullStack": 9,
+                    "Cyber": 8,
+                    "Game": 8,
+                    "Mobile": 7,
+                    "DataScience":8
+                }
+            },
+            {
+                "answer": "Mobil Geliştirme Ortamları",
+                "points": {
+                    "Backend": 6,
+                    "AI": 5,
+                    "Frontend": 7,
+                    "FullStack": 6,
+                    "Cyber": 5,
+                    "Game": 3,
+                    "Mobile": 5,
+                    "DataScience":5
+                }
+            },
+            {
+                "answer": "Bulut Tabanlı Geliştirme Ortamları",
+                "points": {
+                    "Backend": 8,
+                    "AI": 7,
+                    "Frontend": 8,
+                    "FullStack": 8,
+                    "Cyber": 6,
+                    "Game": 6,
+                    "Mobile": 7,
+                    "DataScience":7
+                }
+            }
+        ]
+    },
+        {
+        "question": "Problem Çözme Yaklaşımınızı En İyi Hangisi Açıklar?",
+        "answers": [
+            {
+                "answer": "Problemleri Derinlemesine Analiz Etmek Ve Benzersiz Çözümler Bulmaktan Keyif Alıyorum.",
+                "points": {
+                    "Backend": 7,
+                    "AI": 9,
+                    "Frontend": 7,
+                    "FullStack": 7,
+                    "Cyber": 6,
+                    "Game": 6,
+                    "Mobile": 7,
+                    "DataScience":9
+                }
+            },
+            {
+                "answer": "Var olan çözümleri kullanmayı Ve ihtiyaçlarımıza uygun hale getirmeyi tercih ederim.",
+                "points": {
+                    "Backend": 5,
+                    "AI": 5,
+                    "Frontend": 5,
+                    "FullStack": 5,
+                    "Cyber": 5,
+                    "Game": 5,
+                    "Mobile": 5,
+                    "DataScience":5
+                }
+            },
+            {
+                "answer": "Problemlerin çözümü için başkalarıyla işbirliği yapmayı tercih ederim.",
+                "points": {
+                    "Backend": 6,
+                    "AI": 7,
+                    "Frontend": 6,
+                    "FullStack": 6,
+                    "Cyber": 7,
+                    "Game": 7,
+                    "Mobile": 6,
+                    "DataScience":7
+                }
+            },
+            {
+                "answer": "Karmaşık problemlerden kaçınırım Ve bildiğim konulara odaklanırım.",
+                "points": {
+                    "Backend": 4,
+                    "AI": 4,
+                    "Frontend": 4,
+                    "FullStack": 4,
+                    "Cyber": 4,
+                    "Game": 4,
+                    "Mobile": 4,
+                    "DataScience":4
+                }
+            },
+            {
+                "answer": "Problemlere sistemli Ve yöntemli bir yaklaşım benimserim.",
+                "points": {
+                    "Backend": 6,
+                    "AI": 6,
+                    "Frontend": 6,
+                    "FullStack": 6,
+                    "Cyber": 6,
+                    "Game": 6,
+                    "Mobile": 6,
+                    "DataScience":6
+                }
+            },
+            {
+                "answer": "Problemleri yaratıcı Ve sezgisel bir şekilde çözmeye yaklaşırım.",
+                "points": {
+                    "Backend": 8,
+                    "AI": 8,
+                    "Frontend": 8,
+                    "FullStack": 8,
+                    "Cyber": 6,
+                    "Game": 6,
+                    "Mobile": 8,
+                    "DataScience":8
+                }
+            }
+        ]
+    },
+        {
+        "question": "Hangi programlama dilleriyle daha rahat çalıştığınızı düşünüyorsunuz?",
+        "answers": [
+            {
+                "answer": "HTML, CSS Ve JavaScript",
+                "points": {
+                    "Backend": 6,
+                    "AI": 4,
+                    "Frontend": 10,
+                    "FullStack": 5,
+                    "Cyber": 4,
+                    "Game": 4,
+                    "Mobile": 5,
+                    "DataScience":4
+                }
+            },
+            {
+                "answer": "Java, Python Veya C#",
+                "points": {
+                    "Backend": 9,
+                    "AI": 9,
+                    "Frontend": 6,
+                    "FullStack": 7,
+                    "Cyber": 7,
+                    "Game": 8,
+                    "Mobile": 7,
+                    "DataScience":7
+                }
+            },
+            {
+                "answer": "SQL Veya R",
+                "points": {
+                    "Backend": 6,
+                    "AI": 5,
+                    "Frontend": 5,
+                    "FullStack": 6,
+                    "Cyber": 6,
+                    "Game": 6,
+                    "Mobile": 6,
+                    "DataScience":9
+                }
+            },
+            {
+                "answer": "Swift Veya Kotlin",
+                "points": {
+                    "Backend": 6,
+                    "AI": 5,
+                    "Frontend": 5,
+                    "FullStack": 6,
+                    "Cyber": 4,
+                    "Game": 3,
+                    "Mobile": 9,
+                    "DataScience":5
+                }
+            },
+            {
+                "answer": "TypeScript Veya Go",
+                "points": {
+                    "Backend": 6,
+                    "AI": 4,
+                    "Frontend": 8,
+                    "FullStack": 5,
+                    "Cyber": 8,
+                    "Game": 3,
+                    "Mobile": 4,
+                    "DataScience":1
+                }
+            },
+            {
+                "answer": "PHP Veya Ruby",
+                "points": {
+                    "Backend": 10,
+                    "AI": 2,
+                    "Frontend": 4,
+                    "FullStack": 4,
+                    "Cyber": 6,
+                    "Game": 2,
+                    "Mobile": 2,
+                    "DataScience":1
+                }
+            }
+        ]
+    },
+        {
+        "question": "Hangi türden projelerde çalışmak istersiniz?",
+        "answers": [
+            {
+                "answer": "GüVenlik odaklı projeler",
+                "points": {
+                    "Backend": 0,
+                    "AI": 0,
+                    "Frontend": 0,
+                    "FullStack": 2,
+                    "Cyber": 10,
+                    "Game": 0,
+                    "Mobile": 0,
+                    "DataScience":0
+                }
+            },
+            {
+                "answer": "Büyük ölçekli projeler",
+                "points": {
+                    "Backend": 5,
+                    "AI": 1,
+                    "Frontend": 20,
+                    "FullStack": 4,
+                    "Cyber": 0,
+                    "Game": 3,
+                    "Mobile": 20,
+                    "DataScience":1
+                }
+            },
+            {
+                "answer": "Mobil oyun projeleri",
+                "points": {
+                    "Backend": 1,
+                    "AI": 1,
+                    "Frontend": 1,
+                    "FullStack": 2,
+                    "Cyber": 1,
+                    "Game": 10,
+                    "Mobile": 2,
+                    "DataScience":0
+                }
+            },
+            {
+                "answer": "Web uygulamaları",
+                "points": {
+                    "Backend": 3,
+                    "AI": 0,
+                    "Frontend": 10,
+                    "FullStack": 4,
+                    "Cyber": 0,
+                    "Game": 1,
+                    "Mobile": 2,
+                    "DataScience":0
+                }
+            },
+            {
+                "answer": "Blokchain projeleri",
+                "points": {
+                    "Backend": 2,
+                    "AI": 1,
+                    "Frontend": 10,
+                    "FullStack": 4,
+                    "Cyber": 1,
+                    "Game": 4,
+                    "Mobile": 2,
+                    "DataScience":0
+                }
+            }
+        ]
+    },
+        {
+        "question": "Tercih ettiğiniz sürüm kontrol sistemi nedir?",
+        "answers": [
+            {
+                "answer": "Git",
+                "points": {
+                    "Backend": 8,
+                    "AI": 9,
+                    "Frontend": 8,
+                    "FullStack": 8,
+                    "Cyber": 0,
+                    "Game": 6,
+                    "Mobile": 7,
+                    "DataScience":9
+                }
+            },
+            {
+                "answer": "SubVersion",
+                "points": {
+                    "Backend": 7,
+                    "AI": 5,
+                    "Frontend": 5,
+                    "FullStack": 5,
+                    "Cyber": 4,
+                    "Game": 4,
+                    "Mobile": 5,
+                    "DataScience":5
+                }
+            },
+            {
+                "answer": "Mercurial",
+                "points": {
+                    "Backend": 8,
+                    "AI": 7,
+                    "Frontend": 5,
+                    "FullStack": 5,
+                    "Cyber": 4,
+                    "Game": 4,
+                    "Mobile": 5,
+                    "DataScience":5
+                }
+            },
+            {
+                "answer": "CVS",
+                "points": {
+                    "Backend": 6,
+                    "AI": 5,
+                    "Frontend": 5,
+                    "FullStack": 4,
+                    "Cyber": 4,
+                    "Game": 4,
+                    "Mobile": 5,
+                    "DataScience":5
+                }
+            },
+            {
+                "answer": "Perforce",
+                "points": {
+                    "Backend": 7,
+                    "AI": 6,
+                    "Frontend": 6,
+                    "FullStack": 7,
+                    "Cyber": 6,
+                    "Game": 6,
+                    "Mobile": 6,
+                    "DataScience":6
+                }
+            },
+            {
+                "answer": "Tercihim Yok",
+                "points": {
+                    "Backend": 0,
+                    "AI": 0,
+                    "Frontend": 0,
+                    "FullStack": 0,
+                    "Cyber": 0,
+                    "Game": 0,
+                    "Mobile": 0,
+                    "DataScience":0
+                }
+            }
+        ]
+    },
+    {
+        "question": "Programlamayla ilgili en çok neyi seviyorsunuz?",
+        "answers": [
+            {
+                "answer": "Yeni Ve yenilikçi bir şey yaratmak",
+                "points": {
+                    "Backend": 6,
+                    "AI": 4,
+                    "Frontend": 8,
+                    "FullStack": 7,
+                    "Cyber": 3,
+                    "Game": 4,
+                    "Mobile": 5,
+                    "DataScience":5
+                }
+            },
+            {
+                "answer": "Karmaşık problemleri çözmek",
+                "points": {
+                    "Backend": 8,
+                    "AI": 7,
+                    "Frontend": 6,
+                    "FullStack": 7,
+                    "Cyber": 8,
+                    "Game": 7,
+                    "Mobile": 6,
+                    "DataScience":9
+                }
+            },
+            {
+                "answer": "Var olan sistemleri Ve işlemleri geliştirmek",
+                "points": {
+                    "Backend": 9,
+                    "AI": 6,
+                    "Frontend": 7,
+                    "FullStack": 8,
+                    "Cyber": 6,
+                    "Game": 6,
+                    "Mobile": 7,
+                    "DataScience":7
+                }
+            },
+            {
+                "answer": "Diğerleriyle ortak bir hedefe ulaşmak için çalışmak",
+                "points": {
+                    "Backend": 7,
+                    "AI": 8,
+                    "Frontend": 7,
+                    "FullStack": 7,
+                    "Cyber": 6,
+                    "Game": 7,
+                    "Mobile": 7,
+                    "DataScience":6
+                }
+            },
+            {
+                "answer": "Yeni beceriler Ve teknikler öğrenmek",
+                "points": {
+                    "Backend": 6,
+                    "AI": 7,
+                    "Frontend": 6,
+                    "FullStack": 6,
+                    "Cyber": 5,
+                    "Game": 6,
+                    "Mobile": 7,
+                    "DataScience":6
+                }
+            },
+            {
+                "answer": "İşimin pratik uygulamasını görmek",
+                "points": {
+                    "Backend": 7,
+                    "AI": 8,
+                    "Frontend": 7,
+                    "FullStack": 7,
+                    "Cyber": 6,
+                    "Game": 7,
+                    "Mobile": 8,
+                    "DataScience":7
+                }
+            }
+        ]
+    },
+    {
+        "question": "Çalışma Tarzınızı Aşağıdakilerden Hangisini Daha İyi Tanımlar?",
+        "answers": [
+            {
+                "answer": "Bağımsız Çalışmayı Tercih Ederim",
+                "points": {
+                    "Backend": 8,
+                    "AI": 8,
+                    "Frontend": 8,
+                    "FullStack": 8,
+                    "Cyber": 7,
+                    "Game": 8,
+                    "Mobile": 8,
+                    "DataScience":8
+                }
+            },
+            {
+                "answer": "Takım Halinde Çalışmayı Tercih Ederim",
+                "points": {
+                    "Backend": 7,
+                    "AI": 7,
+                    "Frontend": 7,
+                    "FullStack": 7,
+                    "Cyber": 8,
+                    "Game": 7,
+                    "Mobile": 7,
+                    "DataScience":7
+                }
+            },
+            {
+                "answer": "Hem Bağımsız Hem de Takım Çalışmasına Uygunum",
+                "points": {
+                    "Backend": 6,
+                    "AI": 6,
+                    "Frontend": 6,
+                    "FullStack": 7,
+                    "Cyber": 6,
+                    "Game": 6,
+                    "Mobile": 6,
+                    "DataScience":6
+                }
+            },
+            {
+                "answer": "Uzaktan Dağılmış Bir Takımda Çalışmayı Tercih Ederim",
+                "points": {
+                    "Backend": 7,
+                    "AI": 7,
+                    "Frontend": 7,
+                    "FullStack": 7,
+                    "Cyber": 7,
+                    "Game": 7,
+                    "Mobile": 7,
+                    "DataScience":7
+                }
+            },
+            {
+                "answer": "Çapraz Fonksiyonlu Takımlarla İşbirliği İçinde Çalışmaktan Hoşlanırım",
+                "points": {
+                    "Backend": 8,
+                    "AI": 8,
+                    "Frontend": 8,
+                    "FullStack": 8,
+                    "Cyber": 8,
+                    "Game": 8,
+                    "Mobile": 8,
+                    "DataScience":8
+                }
+            },
+            {
+                "answer": "Bu Soruya Cevap Verecek Kadar Deneyimim Yok",
+                "points": {
+                    "Backend": 0,
+                    "AI": 0,
+                    "Frontend": 0,
+                    "FullStack": 0,
+                    "Cyber": 0,
+                    "Game": 0,
+                    "Mobile": 0,
+                    "DataScience":0
+                }
+            }
+        ]
+    }
+]
