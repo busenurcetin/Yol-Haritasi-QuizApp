@@ -46,7 +46,7 @@
                 "points": {
                     "Backend": 5,
                     "AI": 4,
-                    "Frontend": 5,
+                    "Frontend": 4,
                     "FullStack": 5,
                     "Cyber": 5,
                     "Game": 4,
@@ -59,7 +59,7 @@
                 "points": {
                     "Backend": 5,
                     "AI": 1,
-                    "Frontend": 4,
+                    "Frontend": 3,
                     "FullStack": 4,
                     "Cyber": 0,
                     "Game": 3,
@@ -72,12 +72,12 @@
                 "points": {
                     "Backend": 4,
                     "AI": 3,
-                    "Frontend": 4,
+                    "Frontend": 2,
                     "FullStack": 4,
                     "Cyber": 4,
                     "Game": 3,
                     "Mobile": 3,
-                    "DataScience":3
+                    "DataScience":9
                 }
             }
         ]
@@ -130,7 +130,7 @@
                     "Backend": 1,
                     "AI": 1,
                     "Frontend": 6,
-                    "FullStack": 3,
+                    "FullStack": 9,
                     "Cyber": 0,
                     "Game": 0,
                     "Mobile": 0,
@@ -159,7 +159,7 @@
                     "FullStack": 1,
                     "Cyber": 0,
                     "Game": 0,
-                    "Mobile": 4,
+                    "Mobile": 6,
                     "DataScience":0
                 }
             }
@@ -173,7 +173,7 @@
                 "points": {
                     "Backend": 7,
                     "AI": 1,
-                    "Frontend": 5,
+                    "Frontend": 4,
                     "FullStack": 6,
                     "Cyber": 6,
                     "Game": 5,
@@ -199,7 +199,7 @@
                 "points": {
                     "Backend": 4,
                     "AI": 1,
-                    "Frontend": 10,
+                    "Frontend": 9,
                     "FullStack": 5,
                     "Cyber": 0,
                     "Game": 3,
@@ -212,10 +212,10 @@
                 "points": {
                     "Backend": 4,
                     "AI": 1,
-                    "Frontend": 4,
+                    "Frontend": 3,
                     "FullStack": 4,
                     "Cyber": 0,
-                    "Game": 10,
+                    "Game": 9,
                     "Mobile": 4,
                     "DataScience":1
                 }
@@ -225,9 +225,9 @@
                 "points": {
                     "Backend": 4,
                     "AI": 1,
-                    "Frontend": 4,
+                    "Frontend": 3,
                     "FullStack": 4,
-                    "Cyber": 10,
+                    "Cyber": 9,
                     "Game": 3,
                     "Mobile": 2,
                     "DataScience":1
@@ -238,11 +238,11 @@
                 "points": {
                     "Backend": 4,
                     "AI": 1,
-                    "Frontend": 4,
+                    "Frontend": 3,
                     "FullStack": 4,
                     "Cyber": 0,
                     "Game": 3,
-                    "Mobile": 10,
+                    "Mobile": 9,
                     "DataScience":1
                 }
             }
@@ -293,14 +293,14 @@
             {
                 "answer": "Yukarıdaki Hepsi",
                 "points": {
-                    "Backend": 9,
+                    "Backend": 5,
                     "AI": 7,
-                    "Frontend": 9,
+                    "Frontend": 5,
                     "FullStack": 9,
-                    "Cyber": 8,
-                    "Game": 8,
+                    "Cyber": 6,
+                    "Game": 6,
                     "Mobile": 7,
-                    "DataScience":8
+                    "DataScience":6
                 }
             },
             {
@@ -312,7 +312,7 @@
                     "FullStack": 6,
                     "Cyber": 5,
                     "Game": 3,
-                    "Mobile": 5,
+                    "Mobile": 9,
                     "DataScience":5
                 }
             },
@@ -322,7 +322,7 @@
                     "Backend": 8,
                     "AI": 7,
                     "Frontend": 8,
-                    "FullStack": 8,
+                    "FullStack": 9,
                     "Cyber": 6,
                     "Game": 6,
                     "Mobile": 7,
@@ -339,7 +339,7 @@
                 "points": {
                     "Backend": 7,
                     "AI": 9,
-                    "Frontend": 7,
+                    "Frontend": 6,
                     "FullStack": 7,
                     "Cyber": 6,
                     "Game": 6,
@@ -433,7 +433,7 @@
             {
                 "answer": "Java, Python Veya C#",
                 "points": {
-                    "Backend": 9,
+                    "Backend": 10,
                     "AI": 9,
                     "Frontend": 6,
                     "FullStack": 7,
@@ -453,7 +453,7 @@
                     "Cyber": 6,
                     "Game": 6,
                     "Mobile": 6,
-                    "DataScience":9
+                    "DataScience":10
                 }
             },
             {
@@ -465,7 +465,7 @@
                     "FullStack": 6,
                     "Cyber": 4,
                     "Game": 3,
-                    "Mobile": 9,
+                    "Mobile": 10,
                     "DataScience":5
                 }
             },
@@ -518,11 +518,11 @@
                 "points": {
                     "Backend": 5,
                     "AI": 1,
-                    "Frontend": 20,
-                    "FullStack": 4,
+                    "Frontend": 4,
+                    "FullStack": 8,
                     "Cyber": 0,
                     "Game": 3,
-                    "Mobile": 20,
+                    "Mobile": 4,
                     "DataScience":1
                 }
             },
