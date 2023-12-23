@@ -452,7 +452,7 @@ button {
   }
 
   .next_btn {
-    bottom: 10%;
+    
     right: 17%;
   }
 }
@@ -488,14 +488,19 @@ button {
   }
 }
 
-@media screen and (max-width: 414) {
+@media screen and (max-width: 412) {
 
-  .twitterShare{
-    margin-bottom: 10px;
-    margin-left: 0px;
-    width: 10px;
+  .f_btn{
+    margin-top: 9rem;
+
   }
 }
+
+
+
+
+
+
 
 
 
